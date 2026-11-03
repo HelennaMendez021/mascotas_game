@@ -1,0 +1,12 @@
+# Unity debug information that shouldn't be shipped
+*_BurstDebugInformation_DoNotShip/
+
+# Logs and crash reports
+*.log
+*.dmp
+CrashReports/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
