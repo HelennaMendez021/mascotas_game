@@ -1,30 +1,30 @@
-# Juego Mascotas 🐾
+# Mascotas Game 🐾
 
-Versión ejecutable para Windows del juego **Mascotas**, desarrollado en Unity.
+Windows executable build of the **Mascotas** game, developed in Unity.
 
 ---
 
-## 🎮 Cómo jugar
+## 🎮 How to Play
 
-1. Descarga o clona este repositorio:
+1. Download or clone this repository:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/HelennaMendez021/juego-mascotas.git
    ```
-   *(O descarga el repositorio en formato `.ZIP` desde el botón verde **Code ➔ Download ZIP** y descomprímelo).*
-2. Entra a la carpeta descomprimida.
-3. Ejecuta el archivo:
+   *(Or download the repository as a `.ZIP` file via the green **Code ➔ Download ZIP** button and extract it).*
+2. Open the extracted folder.
+3. Run the executable:
    ```text
    Mascotas.exe
    ```
 
 > [!NOTE]
-> Requiere Windows 10/11 de 64 bits. Para que el juego funcione correctamente, no muevas ni borres la carpeta `Mascotas_Data` ni `UnityPlayer.dll`.
+> Requires 64-bit Windows 10/11. For the game to run properly, do not move or delete the `Mascotas_Data` folder or `UnityPlayer.dll`.
 
 ---
 
-## 📁 Estructura de archivos
+## 📁 File Structure
 
-* `Mascotas.exe`: Ejecutable principal del juego.
-* `Mascotas_Data/`: Recursos, niveles y lógica compilada.
-* `MonoBleedingEdge/`: Entorno de ejecución Mono/.NET.
-* `UnityPlayer.dll` / `D3D12/`: Bibliotecas gráficas y motor Unity.
+* `Mascotas.exe`: Main game executable.
+* `Mascotas_Data/`: Assets, levels, and compiled game logic.
+* `MonoBleedingEdge/`: Mono/.NET runtime environment.
+* `UnityPlayer.dll` / `D3D12/`: Graphics libraries and Unity engine binaries.
