@@ -8,7 +8,7 @@ Windows executable build of the **Mascotas** game, developed in Unity.
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/HelennaMendez021/juego-mascotas.git
+   git clone https://github.com/HelennaMendez021/mascotas_game.git
    ```
    *(Or download the repository as a `.ZIP` file via the green **Code ➔ Download ZIP** button and extract it).*
 2. Open the extracted folder.
